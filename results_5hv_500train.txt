@@ -1,0 +1,188 @@
+Epoch 1 ******************************
+	Processing training set...
+		Train Accuracy = 43.02% [70702 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 419.78s
+	Processing validation set...
+		Validation Accuracy = 71.19% [1159 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.30s
+
+
+Epoch 2 ******************************
+	Processing training set...
+		Train Accuracy = 44.08% [72441 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 413.63s
+	Processing validation set...
+		Validation Accuracy = 54.73% [891 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.30s
+
+
+Epoch 3 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2760 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 410.57s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.29s
+
+
+Epoch 4 ******************************
+	Processing training set...
+		Train Accuracy = 1.69% [2772 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 410.33s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.29s
+
+
+Epoch 5 ******************************
+	Processing training set...
+		Train Accuracy = 1.69% [2776 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 409.74s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.28s
+
+
+Epoch 6 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2765 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 409.56s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.29s
+
+
+Epoch 7 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2765 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 410.17s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.29s
+
+
+Epoch 8 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2753 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 410.89s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.28s
+
+
+Epoch 9 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2767 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 412.46s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.29s
+
+
+Epoch 10 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2769 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 412.12s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.31s
+
+
+Epoch 11 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2761 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 412.38s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.30s
+
+
+Epoch 12 ******************************
+	Processing training set...
+		Train Accuracy = 1.69% [2772 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 413.15s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.30s
+
+
+Epoch 13 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2768 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 412.71s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.29s
+
+
+Epoch 14 ******************************
+	Processing training set...
+		Train Accuracy = 1.69% [2772 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 412.26s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.29s
+
+
+Epoch 15 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2769 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 411.61s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.30s
+
+
+Epoch 16 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2766 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 412.52s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.31s
+
+
+Epoch 17 ******************************
+	Processing training set...
+		Train Accuracy = 1.68% [2767 right out of 164335 samples]
+		Batch count = 822, Update count = 822
+		Training time cost = 411.95s
+	Processing validation set...
+		Validation Accuracy = 0.00% [0 right out of 1628 samples]
+		Batch count = 11
+		Validation time cost = 1.28s
+
+
+Finish Training ***********************
